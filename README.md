@@ -7,7 +7,8 @@ OneSignal Xamarin Push Notification Plugin
 
 ## Setup
 
-- See [setup documentation](https://documentation.onesignal.com/docs/xamarin-sdk-setup) for full documentation.
+- Install the [NuGET package](https://www.nuget.org/packages/Com.OneSignal/)
+- For manual installation instructions see [setup documentation](https://documentation.onesignal.com/docs/xamarin-sdk-setup) for full documentation.
 
 ## Sample
 ---------------
